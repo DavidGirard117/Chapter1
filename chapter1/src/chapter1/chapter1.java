@@ -12,15 +12,15 @@ public class chapter1 {
 		
 	System.out.println("Hello world"); //First line
 	System.out.println("How are you?\nShe said \"Hello\" to me.\n");
-		//Second line with an escape sequence
+		//Second line with a new line escape sequence
 		
 
 	}
 
 }
-	//Footer
+	/*Footer
 	
-	//Hello world
-	//How are you?
-	//She said "Hello" to me.
+	Hello world
+	How are you?
+	She said "Hello" to me.*/
 	
